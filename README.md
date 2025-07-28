@@ -68,11 +68,10 @@ Ce projet est une démonstration de nos compétences et de notre collaboration d
 
 Ce projet est sous licence [Ajoutez le type de licence ici, par exemple : MIT].
 
-##  Nos Contributeurs (Étudiants en Licence 3 LDCWCA)
+##  Contributeurs (Étudiants en LP 3 LDCWCA)
 
   * Sébastien
   * Émeline
-  * [Votre Nom]
 
 -----
 
